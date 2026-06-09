@@ -1,0 +1,21 @@
+Package: com.hoabeo.autoallow
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: hoa
+Installed-Size: 252
+Depends: ellekit
+Filename: debs/com.hoabeo.autoallow_1.0.5_iphoneos-arm64.deb
+Size: 30080
+MD5sum: dd1de975617e8ca4ce2088ba515db861
+SHA1: dd4f6e7a32f40dc8d0efde2ca4993d11ecb8cc55
+SHA256: 42fc1ddbc1a1b37dab4fdf87b39fd9e72a34d90e2c54ac62745bbf40cec2af42
+Section: Tweaks
+Description: Auto handle iOS permission/system alert dialogs for device farms.
+ Matches alerts against user-configurable rules, then dismisses with the
+ right button via UIAlertController public path or SpringBoard SBAlertItem
+ response code. Includes destructive-button blocklist, sensitive-bundle
+ guard, per-key cooldown, rate limit, and optional post-respring gesture.
+Tag: role::hacker, purpose::hacker
+Author: hoa
+Name: AutoAllow
+
