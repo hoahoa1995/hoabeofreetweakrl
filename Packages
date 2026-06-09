@@ -19,3 +19,24 @@ Tag: role::hacker, purpose::hacker
 Author: hoa
 Name: AutoAllow
 
+Package: com.opa334.altlist
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 256
+Depends: firmware (>= 7.0)
+Filename: debs/altlist_1.0.11_iphoneos-arm64.deb
+Size: 26942
+MD5sum: 4b20028127ee97b886d5a6463997af7a
+SHA1: 7ea2fe43f91990021abca2fa89d8d6faf35a5d97
+SHA256: 26718f617288f93b91f961d8a363d04c11d295f0de76acda4f5df057a5189975
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Description: A modern AppList alternative
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Dev: opa334
+Name: AltList
+Sponsor: thebigboss.org <http://thebigboss.org>
+
