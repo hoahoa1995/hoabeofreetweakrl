@@ -14,6 +14,22 @@ Description: TrollVNC is a VNC server for iOS devices, allowing remote access an
 Author: 82Flex <82flex@gmail.com>
 Name: TrollVNC
 
+Package: com.hoa.photo
+Version: 3.10-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: hoa
+Installed-Size: 400
+Depends: firmware (>= 14.0)
+Filename: debs/com.hoa.photo_3.10-1okgiaidoan1_iphoneos-arm64e.deb
+Size: 24022
+MD5sum: 27b0f4be666006da0293460554aec1a7
+SHA1: 4c8ab48744328387086d56db01bafe516cd0103c
+SHA256: fd349576bb33e6901c047444353499c30468a16193e8dfe729b91ba5902db7bc
+Section: Utilities
+Description: Add image/video/clear Photos from terminal (iOS 15, roothide)
+Author: hoa
+Name: photo (Photos CLI + Tweak)
+
 Package: com.hoabeo.autoallow
 Version: 1.0.5
 Architecture: iphoneos-arm64
