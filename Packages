@@ -66,6 +66,22 @@ Description: Stream iPhone screen to browser via port 7777 with AutoTouch coordi
 Author: hoa
 Name: ScreenWeb RH
 
+Package: com.hoabeo.toolig
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: hoa
+Installed-Size: 1680
+Depends: ellekit | mobilesubstrate
+Filename: debs/toolig.deb
+Size: 1139856
+MD5sum: 48da20181d1b07e38987a59705f77462
+SHA1: aa3f67d4e2332949607d6845e288b6724f8e63f9
+SHA256: c20ab4d81fca95230c70b9dc8c9a9ce0490cbf4e10eb72ef0608d7e2229d2629
+Section: Tweaks
+Description: Floating chat-bubble tool for IG (Update/Run/Stop, server/user/pass, load acc).
+Author: hoa
+Name: toolIG
+
 Package: ws.hbang.newterm3
 Version: 3.0~beta1
 Architecture: iphoneos-arm64
