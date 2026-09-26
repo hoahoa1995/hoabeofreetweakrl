@@ -51,6 +51,21 @@ Tag: role::hacker, purpose::hacker
 Author: hoa
 Name: AutoAllow
 
+Package: com.hoabeo.screenweb
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: hoa
+Installed-Size: 492
+Filename: debs/com.hoabeo.screenweb_1.0.0-1+debug_iphoneos-arm64e.deb
+Size: 53644
+MD5sum: 9e0975e050f53e352158eeff04e47c71
+SHA1: f5bd6064625323705bbdfdc29a396ec35ba1e978
+SHA256: e6a12165eae8fffe627b8a2a537327fac6f838c9cc90c2e35e51185fe6c9af8a
+Section: Utilities
+Description: Stream iPhone screen to browser via port 7777 with AutoTouch coordinate reader
+Author: hoa
+Name: ScreenWeb RH
+
 Package: ws.hbang.newterm3
 Version: 3.0~beta1
 Architecture: iphoneos-arm64
